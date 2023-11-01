@@ -1,10 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
 
 ### Posts
 - [[2022-12-24-READMELOLSTATS]]
