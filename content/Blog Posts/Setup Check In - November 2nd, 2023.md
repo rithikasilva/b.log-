@@ -7,6 +7,7 @@ I haven't done a check in for my current work/school/play setup in a while, so I
   <img src="https://rithikasilva.ca/gallery/photos/20231027_154343.jpg" alt="Current Setup Photo" width="400px"/>
 </p>
 
+
 ## Core Devices
 
 ### Tachyon
