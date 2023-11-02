@@ -28,10 +28,10 @@ The other devices and accessories I use are pretty self explanatory:
 - A Sony ZV-E10 with a Gorilla Pod 3K for Photos/Videos. 
 - The Sony WH-1000XM4 for audio.
 - A Razer Basilisk mouse and Steel Series mousepad.
-- Liberty - My current keyboard. The base is a ROG Falchion Ace in white with custom empty black key caps and a Glorious coiled cable in black. Liberty was put together from the guts of Graviton, which used a white RK64 as a base.
+- Liberty - My current keyboard. The base is a ROG Falchion Ace in white with custom empty black key caps and a Glorious coiled cable in black. Liberty was put together from the guts of Graviton, which used a white RK64 as a base. (*Show below for reference, and because I'm happy about it 😀*)
 - A Timex Expedition for my watch. I had the brown bands replaced with black bands because the brown ones broke 😔.
-
-
-
+<p align="center">
+  <img src="https://rithikasilva.ca/gallery/photos/20231027_154808.jpg" alt="Current Setup Photo" width="400px"/>
+</p>
 
 
