@@ -1,5 +1,4 @@
 ---
-layout: post
 title: iSH V.S. Termius V.S. Blink Shell for SSH
 date: 2022-06-17
 ---

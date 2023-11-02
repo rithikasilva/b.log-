@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Initial Alpha of README LoL Stats
 date: 2022-12-24
 ---

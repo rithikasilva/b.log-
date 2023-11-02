@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Agorithmic Art Bot
+title: Algorithmic Art Bot
 date: 2021-12-31
 ---
 Jean the Agorithmic Art Bot is online! Besides automated posting (which I'm having trouble finding methods for while still keeping the code on replit), all initial features are online. You can find the code on [my GitHub](https://github.com/rithikasilva).

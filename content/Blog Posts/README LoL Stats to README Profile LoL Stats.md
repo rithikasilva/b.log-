@@ -1,5 +1,4 @@
 ---
-layout: post
 title: README LoL Stats to README Profile LoL Stats
 date: 2022-12-29
 ---
