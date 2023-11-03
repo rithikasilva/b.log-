@@ -1,8 +1,8 @@
 .DS_Store
 .gitignore
 node_modules
-public
 prof
+public
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
