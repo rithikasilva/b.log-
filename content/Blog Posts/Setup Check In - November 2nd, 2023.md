@@ -38,6 +38,7 @@ The other devices and accessories I use are pretty self explanatory:
   <img src="https://rithikasilva.ca/gallery/photos/20231027_154808.jpg" alt="Current Setup Photo" width="400px"/>
 </p>
 
+ 
 
 
 
