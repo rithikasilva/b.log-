@@ -1,4 +1,5 @@
 ---
+title: Setup Check In - November 2nd, 2023
 date: 2023-11-02
 ---
 I haven't done a check in for my current work/school/play setup in a while, so I thought it was about time.
