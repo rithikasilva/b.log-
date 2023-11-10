@@ -25,7 +25,7 @@ Positron had more use when I was using Photon, as I would leave Photon at home b
 Ion is my iPhone X. I've had Ion since 9th grade, and it hasn't failed me yet. However, I think it's about time to upgrade since Ion can heat up sometimes and it'll stop getting software updates next year. As much as I would like to swap to android, having and iPad and having my family all use Apple devices makes buying another iPhone be the most convenience decision.
 
 ### Typhoon
-Typhoon is an old Dell Optiplex 360 my family had used as a home computer. It has a Pentium 35200 and 4 GB of RAM. Over the summer, I turned it into a small homelab/server by installing Ubuntu server on it. Since then, I haven't done much with, mostly due to a lack of inspiration and time. As of right now, the plan is to play with hosting a personal music service or my personal site on it. Maybe using it for GitHub Actions that I use. We will see.
+#Typhoon is an old Dell Optiplex 360 my family had used as a home computer. It has a Pentium 35200 and 4 GB of RAM. Over the summer, I turned it into a small homelab/server by installing Ubuntu server on it. Since then, I haven't done much with, mostly due to a lack of inspiration and time. As of right now, the plan is to play with hosting a personal music service or my personal site on it. Maybe using it for GitHub Actions that I use. We will see.
 
 ## Other Devices and Accessories
 The other devices and accessories I use are pretty self explanatory:
