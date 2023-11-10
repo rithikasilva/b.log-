@@ -7,4 +7,4 @@ This post is going to be very brief, as it is just for capturing an idea I overh
 
 Doing this isn't hard even if you haven't used GitHub Action before, because most Actions actually follow a very similar overall template (and thus there are lots of example of how to do this).
 
-If I ever get a situation where I can't run #Typhoon (my personal server) to collect data, I now have a backup plan.
+If I ever get a situation where I can't run #Typhoon to collect data, I now have a backup plan.
