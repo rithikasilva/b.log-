@@ -25,3 +25,6 @@ Then, the steps used in actual break can be done with three pairs to determine t
 
 Then, using knowledge about the components of each $s$, you can try each guess for $\alpha$ until you are reduced to only one that works for all $s$. In the worst case, you would be left with three guesses for a while 🤷.
 
+
+
+#cryptography #CO487
