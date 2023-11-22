@@ -1,5 +1,5 @@
 ---
-title: ECDSA - Detecting the reuse of k
+title: ECDSA - Detecting the Reuse of k
 date: 2023-11-22
 ---
 
