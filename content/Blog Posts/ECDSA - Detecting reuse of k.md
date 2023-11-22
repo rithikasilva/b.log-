@@ -1,5 +1,5 @@
 ---
-title: ECDSA: Detecting the reuse of k
+title: ECDSA - Detecting the reuse of k
 date: 2023-11-22
 ---
 
@@ -17,9 +17,9 @@ where:
 - $\alpha$ is such that $\alpha P$ is the public key and $\alpha$ is the private key.
 - $q$ is the prime for which $\alpha, k \in_R \mathbb{Z}^*_q$.
 
-Notice that $r$ does change if $k$ is kept the same 👀. This isn't enough to conclude that the same $k$ is being used, but it is the first indicator. If we see the same $r$ value three separate times, we can guarantee that at least two of those signatures used the same value for $k$.
+Notice that $r$ does not change if $k$ is kept the same 👀. This isn't enough to conclude that the same $k$ is being used, but it is the first indicator. If we see the same $r$ value three separate times, we can guarantee that at least two of those signatures used the same value for $k$.
 
-We can do this because **there are at most two points which have the same x-value in an elliptic curve in $\mathbb{Z}_p$ for some prime $p$**. 
+We can do this because **there are at most two points which have the same x-value in an elliptic curve in $\mathbb{Z}_p$ for some prime $p$**. Note that taking $\mod q$ doesn't increase the possible number of values.
 
 Then, the steps used in actual break can be done with three pairs to determine three possible private keys. 
 
