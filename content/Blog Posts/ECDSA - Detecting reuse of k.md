@@ -21,8 +21,7 @@ Notice that $r$ does change if $k$ is kept the same 👀. This isn't enough to c
 
 We can do this because **there are at most two points which have the same x-value in an elliptic curve in $\mathbb{Z}_p$ for some prime $p$**. 
 
-Then, the steps used in actual break can be done with three pairs to determine three possible private keys. Then:
-1. If two guesses match, the other guess is the private key. This is where we have two of the three that use one key.
-2. If all three have the same guess, then we have determined the private key.
+Then, the steps used in actual break can be done with three pairs to determine three possible private keys. 
 
+Then, using knowledge about the components of each $s$, you can try each guess for $\alpha$ until you are reduced to only one that works for all $s$. In the worst case, you would be left with three guesses for a while 🤷.
 
