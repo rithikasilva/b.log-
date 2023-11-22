@@ -27,4 +27,4 @@ Then, using knowledge about the components of each $s$, you can try each guess f
 
 
 
-#cryptography #CO487
+Tags: #cryptography #CO487
