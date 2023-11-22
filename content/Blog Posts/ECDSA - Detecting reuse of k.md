@@ -1,6 +1,6 @@
 ---
 title: ECDSA: Detecting the reuse of k.
-date: 2021-12-31
+date: 2023-11-22
 ---
 
 Many people are familiar with the PS3 exploit discovered in 2010 by the fail0Overflow group. This exploit was the result of Sony reusing the value $k$ in their implementation of the Elliptic Curve Digital Signature Algorithm. By reusing the value for $k$, the private key can be directly calculated (the details of which can be seen [here](https://www.youtube.com/watch?v=LP1t_pzxKyE))
