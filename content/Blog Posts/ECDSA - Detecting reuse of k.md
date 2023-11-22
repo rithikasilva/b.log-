@@ -1,5 +1,5 @@
 ---
-title: ECDSA: Detecting the reuse of k.
+title: ECDSA: Detecting the reuse of k
 date: 2023-11-22
 ---
 
@@ -14,7 +14,7 @@ We know that the value signature $(r, s)$ can be expressed as:
 where:
 - $x_{kP}$ is the x value of the scalar multiplication of $k$ and the generator point $P$ on the elliptic curve of order $q$.
 - $H(m)$ is the hash of the message.
-- $\alpha$ is such that $\alphaP$ is the public key and $\alpha$ is the private key.
+- $\alpha$ is such that $\alpha P$ is the public key and $\alpha$ is the private key.
 - $q$ is the prime for which $\alpha, k \in_R \mathbb{Z}^*_q$.
 
 Notice that $r$ does change if $k$ is kept the same 👀. This isn't enough to conclude that the same $k$ is being used, but it is the first indicator. If we see the same $r$ value three separate times, we can guarantee that at least two of those signatures used the same value for $k$.
