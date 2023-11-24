@@ -25,6 +25,6 @@ The best setup I have found is to use Tmux to have one window to edit files that
 
 The necessary scrips, Nvim setup, and Tmux config can all be found in my [.dotfiles repo](https://github.com/rithikasilva/.dotfiles).
 
-<p align="center">
-  <img src="https://rithikasilva.ca/b.log/Images-and-Assets/2023-11-24-SchoolDevSetup.PNG" alt="School Setup Photo" width="400px"/>
-</p>
+![[2023-11-24-SchoolDevSetup.png]]
+
+Tags: #nvim #school #dev
