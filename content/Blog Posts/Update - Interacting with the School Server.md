@@ -6,7 +6,7 @@ date: 2023-11-24
 After having a conversation with a friend, I realized I had gone through several different "workflows" for interacting with the University of Waterloo's student server for completing some of my coursework. While I think the workflow I have right now is the best that I have used, that is also what I thought with each of the previous iterations so I'm positive that this will probably change in the future again.
 
 #### First Iteration: PuTTY
-When first introducing the existence of the school server for submitting/completing assignments, my professors has suggest to just use PuTTY and Vim. While this definitely works, this has obvious flaws. 
+When first introducing the existence of the school server for submitting/completing assignments, my professors has suggest to just use PuTTY and Vim. The reason I almost immediately moved away from this was because of my disdain for using PuTTY, and the fact that the school server is pretty locked down, so didn't allow me to install any additional tools that I personally like to use (which includes plugins for Vim/Nvim).
 
 
 #### Second Iteration: Windows Terminal + VSCode and Blink Shell
