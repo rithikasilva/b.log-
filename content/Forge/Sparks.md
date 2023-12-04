@@ -1,3 +1,8 @@
+---
+title: Sparks
+date: 2023-12-04
+---
+
 $$
 \text{\it "Bursts of inspiration from the Aether"}
 $$
