@@ -14,7 +14,7 @@ The transformation that lead to finding a solution:
 4. Add $n-1$ entries of $-2K$ to $f(I)$ where $n$ is the length of $I$.
 5. Add $-2K + 1$ to $f(I)$.
 
-Even after deducing this transformation, I had trouble proving the reverse direction. After eliminating some possible structures for a subset of $f(I)$ that adds to $1$ (which I leave to the reader to prove on their own 🙃) , I was left with:
+Even after deducing this transformation, I had trouble proving the reverse direction. After eliminating some possible structures for a subset of $f(I)$ that adds to $1$ (which I leave as an exercise to the reader 🙃) , I was left with:
 $$
 2(x_e + ... + x_f) + j(2K) + c(-2K) + (-2K + 1) = 1
 $$
