@@ -35,9 +35,11 @@ We know that the largest possible positive sum we can find in $I$ can only be as
 
 To summarize: the reason we were able to deduce that the sum was zero was because we had (among some other choices of $f(I$) to eliminate possible other structures) a choice of $K$ that has a lowest possible positive value and greatest possible negative value out of the range of values that any subset of $I$ could sum too. Finding these bounds are a very simple task (unlike the NP nature of the *SSO* and *SSZ* class of problems), which makes finding $K$ in  polytime easy too.
 
+This also highlights the nature of some problems are NP (like finding whether a subset of given integers sum to a particular value), but related problems are in fact P (like finding the upper and lower bounds of the sum of a subset of given integers).
 
 
-Tags: #comp-complexity #theoreticalCS #proof
+
+Tags: #comp-complexity #theoreticalCS #proof #P #NP
 
 
 
