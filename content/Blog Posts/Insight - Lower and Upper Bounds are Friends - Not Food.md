@@ -1,5 +1,5 @@
 ---
-title: "Insight: Lower and Upper Bounds are Friends"
+title: "Insight: Lower and Upper Bounds are Friends - Not Food"
 date: 2023-12-04
 ---
 The other day I was working on a proof to show that there is a polynomial transformation from *SUBSET-SUM-ZERO* to *SUBSET-SUM-ONE* where the two problems are decision problems and are defined as follows:
