@@ -5,7 +5,7 @@ date: 2023-12-04
 The other day I was working on a proof to show that there is a polynomial transformation from *SUBSET-SUM-ZERO* to *SUBSET-SUM-ONE* where the two problems are decision problems and are defined as follows:
 1. *SUBSET-SUM-ZERO*: Given a list of integers, if there exists a non-empty subset of those integers that sum to $0$, return YES. Otherwise return FALSE.
 2. *SUBSET-SUM-ONE*: Given a list of integers, if there exists a non-empty subset of those integers that sum to $1$, return YES. Otherwise return FALSE.
-For a while, I had come up with a transformation $f(I)$ where I could show that if I had a instance $I$ that should evaluate to true for *SUBSET-SUM-ZERO* (*SSZ*), then there is one for $f(I)$ that evaluates true for *SUBSET-SUM-ONE* (*SSO*), but couldn't find one to prove the backwards direction.
+For a while, I had come up with a transformation $f(I)$ where I could show that if I had a instance $I$ that should evaluate to true for *SUBSET-SUM-ZERO* (*SSZ*), then there is one for $f(I)$ that evaluates true for *SUBSET-SUM-ONE* (*SSO*), and I had proven that *SSO* was in NP, but couldn't find one to prove the backwards direction.
 
 After some back and forth of modify/adding/removing parts of $f(I)$ to gain the ability to fix a structure for a subset sum in $f(I)$ which is $1$, I ended up with the transformation:
 1. Define $P$ as the sum of all positive numbers in $I$ and $N$ as the sum of all negative numbers.
