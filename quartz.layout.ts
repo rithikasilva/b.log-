@@ -7,8 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/rithikasilva",
-      "Personal Site": "https://rithikasilva.ca/",
+      GitHub: "https://github.com/rithikasilva"
     },
   }),
 }
@@ -27,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Graph()),
   ],
   right: [
     // Component.Graph(),
