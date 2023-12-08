@@ -9,7 +9,8 @@ $$
 
 
 ##### Soon
-- [ ] Setting up #Typhoon  - what can I do with it, why having a personal server is nice, what considerations do I need to be aware of.
+- [ ] Setting up [[Maelstrom]].
+- [ ] Setting up [[Typhoon]]  - what can I do with it, why having a personal server is nice, what considerations do I need to be aware of.
 - [ ] Slope field analysis of FRC teams using Zebra MotionWorks data from 2023 - what can we can learn from the cycle paths and routing of teams in relation to drivetrain, strategy, and design.
 
 ##### Someday
