@@ -2,7 +2,6 @@
 title: Tachyon
 date: 2023-12-01
 ---
-
 Model: 2022 ROG Zephyrus G14
 CPU: AMD Ryzen 9 6900HS
 RAM: 16GB 
