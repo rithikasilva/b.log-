@@ -1,6 +1,6 @@
 ---
 title: Typhoon
-date: 2023-12-01
+date: 2015-01-01
 ---
 Model: Dell Optiplex 360
 CPU: Pentium 35200 
