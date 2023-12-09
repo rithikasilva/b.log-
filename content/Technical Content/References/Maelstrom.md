@@ -9,6 +9,13 @@ date: 2023-12-08
 - OS: Ubuntu Server
 
 
+Currently Running:
+- [NTFY](https://ntfy.sh/)
+
+Look into Running:
+- [Homepage](https://github.com/gethomepage/homepage)
+
+
 
 
 
