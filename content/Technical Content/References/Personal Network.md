@@ -1,3 +1,7 @@
+---
+title: Personal Network
+date: 2023-12-09
+---
 I use [Tailscale](https://tailscale.com/) as a VPN to manage my personal network. The units part of this environment are:
 1. [[Tachyon]]
 2. [[Maelstrom]]
