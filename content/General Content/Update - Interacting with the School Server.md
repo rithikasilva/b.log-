@@ -28,5 +28,5 @@ The necessary scrips, Nvim setup, and Tmux config can all be found in my [.dotfi
 ![[2023-11-24-SchoolDevSetup.png]]
 *Example of how my current setup looks like. The left has Nvim running on my machine (in WSL) editing a file from the school server mounted on my machine using SSHFS. The right is just a terminal with an SSH connection to the school server. Everything is contained within Tmux.*
 
-Tags: #nvim #school #dev #Tachyon 
+Tags: #nvim #school #dev 
 

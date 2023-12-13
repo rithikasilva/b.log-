@@ -11,10 +11,10 @@ date: 2023-12-08
 
 Currently Running:
 - [NTFY](https://ntfy.sh/)
+- [DUFS](https://github.com/sigoden/dufs)
 
 Look into Running:
 - [Homepage](https://github.com/gethomepage/homepage)
-- [DUFS](https://github.com/sigoden/dufs)
 
 
 
