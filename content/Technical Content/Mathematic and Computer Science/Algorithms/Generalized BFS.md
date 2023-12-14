@@ -8,12 +8,14 @@ state[1...n] = [unseen, unseen, ..., unseen]
 dist[1...n] = [infty, infty, ..., infty]
 
 def BFS(V[1..n], adjlist[1..n], start:
-	
+
+	# Initialize stuff for the start
 	q = new queue
 	state[start] = seen
 	dist[start] = 0
 	q.enqueue(start)
-	
+
+	# Do the actual BFS
 	while q is not empty:
 		u = q.dequeue()
 		for v in adjlist[u]:
