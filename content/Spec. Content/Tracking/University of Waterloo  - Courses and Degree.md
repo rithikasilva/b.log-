@@ -3,11 +3,10 @@ title: University of Waterloo  - Courses
 date: 2023-12-28
 ---
 # Target Major + Minors
-- Major: Honours Bachelor of Computer Science (Co-op)
+- Major: [Honours Bachelor of Computer Science (Co-op)](https://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1)
 - Minor(s): 
-	- Combinatorics & Optimization
-	- Computational Mathematics
-
+	- [Combinatorics & Optimization](https://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization-Minor2)
+	- [Computational Mathematics](https://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Minor)
 
 ---
 # Terms
@@ -46,16 +45,25 @@ date: 2023-12-28
 - ✅ SCI 206: - The Physics of How Things Work
 - ✅ STAT 231 - Statistics
 #### 3B
-- ✖️ CO 250 - Introduction to Optimization
-- ✖️ CO 342 - Introduction to Graph Theory
-- ✖️ CS 370 - Numerical Computation
-- ✖️ MUSIC 332 or MUSIC 333 or MUSIC 335 or MUSIC 362 (anything to satisfy the depth requirement >.<).
+- ⭕ CO 250 - Introduction to Optimization
+- ⭕ CO 342 - Introduction to Graph Theory
+- ⭕ CS 370 - Numerical Computation
+- ⭕ MUSIC 332 or MUSIC 333 or MUSIC 335 or MUSIC 362 (anything to satisfy the depth requirement >.<).
+- ⭕ ?
 
 
 #### 4A
-- ✖️ CO 456 - Introduction to Game Theory
+- ⭕ CO 456 - Introduction to Game Theory
+- ⭕ ?
+- ⭕ ?
+- ⭕ ?
+- ⭕ ?
 #### 4B
-- 
+- ⭕ ?
+- ⭕ ?
+- ⭕ ?
+- ⭕ ?
+- ⭕ ?
 
 ---
 ### Courses to Consider:
@@ -74,4 +82,5 @@ date: 2023-12-28
 - ✅ PD 1 - Career Fundamentals
 - ✅ PD 8 - Intercultural Skills
 - ✅ PD 10 - Professional Responsibility in Computing
-- ✅ PD 11 - Processes for Technical Report Writing
+- ⭕ PD 11 - Processes for Technical Report Writing
+- ⭕ ?
