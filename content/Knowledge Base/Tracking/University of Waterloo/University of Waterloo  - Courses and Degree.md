@@ -6,7 +6,7 @@ date: 2023-12-28
 - Major: [Honours Bachelor of Computer Science (Co-op)](https://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1)
 - Minor(s): 
 	- [Combinatorics & Optimization](https://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization-Minor2)
-	- [Computational Mathematics](https://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Minor)
+	- [Computational Mathematics](https://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Minor) (need to talk to advisor 👀)
 
 ---
 # Terms
