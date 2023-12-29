@@ -7,13 +7,8 @@ date: 2023-12-28
 - Minor(s): Combinatorics & Optimization + Computational Mathematics
 
 ---
+
 # Terms
-
-```start-multi-column  
-ID: ExampleRegion1  
-number of columns: 2  
-```
-
 #### 1A
 - ✅ CS 145 - Designing Functional Programs 
 - ✅ MATH 135 - Algebra for Honours Mathematics
@@ -28,8 +23,6 @@ number of columns: 2
 - ✅ MATH 138 - Calculus 2 for Honours Mathematics
 - ✅ MUSIC 254 - Monteverdi to Mozart: Music from 1600-1800
 
---- end-column ---
-
 #### 2A
 - ✅ ANTH 100 - Introduction to Anthropology
 - ✅ CS 245 - Logic and Computation
@@ -43,17 +36,6 @@ number of columns: 2
 - ✅ CS 251 - Computer Organization and Design
 - ✅ MATH 239 - Introduction to Combinatorics
 - ✅ SCI 207 - Physics, the Universe, and Everything
-
---- end-multi-column
-
-Text displayed below.
-
-
-
-
-
-
-
 
 #### 3A
 -✅ CO 487 - Applied Cryptography
