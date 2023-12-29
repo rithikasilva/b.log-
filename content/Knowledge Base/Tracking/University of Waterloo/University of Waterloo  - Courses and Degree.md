@@ -1,5 +1,5 @@
 ---
-title: University of Waterloo  - Courses
+title: University of Waterloo  - Courses and Degree
 date: 2023-12-28
 ---
 # Target Major + Minors
