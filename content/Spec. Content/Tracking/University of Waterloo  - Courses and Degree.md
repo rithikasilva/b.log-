@@ -4,10 +4,12 @@ date: 2023-12-28
 ---
 # Target Major + Minors
 - Major: Honours Bachelor of Computer Science (Co-op)
-- Minor(s): Combinatorics & Optimization + Computational Mathematics
+- Minor(s): 
+	- Combinatorics & Optimization
+	- Computational Mathematics
+
 
 ---
-
 # Terms
 #### 1A
 - ✅ CS 145 - Designing Functional Programs 
@@ -38,11 +40,11 @@ date: 2023-12-28
 
 
 #### 3A
--✅ CO 487 - Applied Cryptography
--✅ CS 341 - Algorithms
--✅ CS 350 - Operating Systems
--✅ SCI 206: - The Physics of How Things Work
--✅ STAT 231 - Statistics
+- ✅ CO 487 - Applied Cryptography
+- ✅ CS 341 - Algorithms
+- ✅ CS 350 - Operating Systems
+- ✅ SCI 206: - The Physics of How Things Work
+- ✅ STAT 231 - Statistics
 #### 3B
 - ✖️ CO 250 - Introduction to Optimization
 - ✖️ CO 342 - Introduction to Graph Theory
