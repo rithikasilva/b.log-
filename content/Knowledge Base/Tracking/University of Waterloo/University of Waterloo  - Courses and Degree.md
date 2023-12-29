@@ -49,13 +49,13 @@ date: 2023-12-28
 - ⭕ CO 342 - Introduction to Graph Theory
 - ⭕ CS 370 - Numerical Computation
 - ⭕ MUSIC 332 or MUSIC 333 or MUSIC 335 or MUSIC 362 (anything to satisfy the depth requirement >.<).
-- ⭕ ?
+- ⭕ CS 444 - Compiler Construction
 
 
 #### 4A
 - ⭕ CO 456 - Introduction to Game Theory
-- ⭕ ?
-- ⭕ ?
+- ⭕ CS 486 - Introduction to Artificial Intelligence
+- ⭕ CS 479 - Neural Networks
 - ⭕ ?
 - ⭕ ?
 #### 4B
@@ -80,7 +80,7 @@ date: 2023-12-28
 
 ### PD Courses
 - ✅ PD 1 - Career Fundamentals
-- ✅ PD 8 - Intercultural Skills
+- ⭕ PD 8 - Intercultural Skills
 - ✅ PD 10 - Professional Responsibility in Computing
-- ⭕ PD 11 - Processes for Technical Report Writing
+- ✅ PD 11 - Processes for Technical Report Writing
 - ⭕ ?
