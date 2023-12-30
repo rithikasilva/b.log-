@@ -12,9 +12,9 @@ date: 2023-12-08
 Currently Running:
 - [NTFY](https://ntfy.sh/)
 - [DUFS](https://github.com/sigoden/dufs)
+- [FLAME](https://github.com/pawelmalak/flame)
 
-Look into Running:
-- [Homepage](https://github.com/gethomepage/homepage)
+
 
 
 
