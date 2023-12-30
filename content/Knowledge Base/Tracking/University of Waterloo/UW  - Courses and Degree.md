@@ -1,12 +1,10 @@
 ---
-title: University of Waterloo  - Courses and Degree
+title: UW  - Courses and Degree
 date: 2023-12-28
 ---
-# Target Major + Minors
+# Target Major + Minor
 - Major: [Honours Bachelor of Computer Science (Co-op)](https://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1)
-- Minor(s): 
-	- [Combinatorics & Optimization](https://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization-Minor2)
-	- [Computational Mathematics](https://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Minor) (need to talk to advisor 👀)
+- Minor: [Combinatorics & Optimization](https://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization-Minor2)
 
 ---
 # Terms
