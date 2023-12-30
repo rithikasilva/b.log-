@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
     // Component.DesktopOnly(Component.Graph()),
   ],
   right: [
@@ -55,9 +55,10 @@ export const defaultContentPageLayout: PageLayout = {
         opacityScale: 1,
       },
     }),
-    Component.RecentNotes(
-        {limit: 5}
-      ),
+    Component.Explorer(),
+    // Component.RecentNotes(
+    //     {limit: 5}
+    //   ),
   ],
 }
 
