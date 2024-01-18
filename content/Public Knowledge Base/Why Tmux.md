@@ -16,3 +16,13 @@ What does it do/solve for me?
 	- Can add whatever I want -> what is on your systems status bar? -> time + date
 
 
+
+
+Must Have Plugins + Changes:
+- Rebinds:
+	- Leader
+	- Splitting
+	- Vim movement
+- TPM
+- nord-tmux
+- tmux-yank
