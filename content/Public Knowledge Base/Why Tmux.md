@@ -14,5 +14,5 @@ What does it do/solve for me?
 	- Working on my server from my phone and I get disconnected -> if was in Tmux session means nothing is lost.
 - Status bar has information
 	- Can add whatever I want -> what is on your systems status bar? -> time + date
--
+
 
