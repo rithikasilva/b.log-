@@ -46,16 +46,17 @@ date: 2023-12-28
 - ⭕ CO 250 - Introduction to Optimization
 - ⭕ CO 342 - Introduction to Graph Theory
 - ⭕ CS 370 - Numerical Computation
-- ⭕ MUSIC 332 or MUSIC 333 or MUSIC 335 or MUSIC 362 (anything to satisfy the depth requirement >.<).
-- ⭕ CS 444 - Compiler Construction
+- ⭕ CS 480 - Introduction to Machine Learning
+- ⭕ CS 486 - Introduction to Artificial Intelligence
 
 
 #### 4A
 - ⭕ CO 456 - Introduction to Game Theory
-- ⭕ CS 486 - Introduction to Artificial Intelligence
+- ⭕ CS 456 - Computer Networks
 - ⭕ CS 479 - Neural Networks
-- ⭕ ?
-- ⭕ ?
+- ⭕ CS 444 - Compiler Construction
+- ⭕  MUSIC 332 or MUSIC 333 or MUSIC 335 or MUSIC 362 (anything to satisfy the depth requirement >.<).
+- ⭕ 
 #### 4B
 - ⭕ ?
 - ⭕ ?
@@ -65,16 +66,11 @@ date: 2023-12-28
 
 ---
 ### Courses to Consider:
-- CS 486 - Introduction to Artificial Intelligence
 - CS 484 - Computational Vision (CS 370)
-- CS 480 - Introduction to Machine Learning
-- CS 479 - Neural Networks (CS 370)
 - CS 458 - Computer Security and Privacy
-- CS 456 - Computer Networks
 - CS 454 - Distributed Systems
 - CS 452  - Real-time Programming
 - CS 449 - Human-Computer Interaction
-- CS 444 - Compiler Construction
 
 ### PD Courses
 - ✅ PD 1 - Career Fundamentals
