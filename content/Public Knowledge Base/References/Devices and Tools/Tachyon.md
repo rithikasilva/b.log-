@@ -8,4 +8,3 @@ date: 2022-12-24
 - dGPU: AMD Radeon RX 6700S
 - Storage: 1TB
 - OS:  Windows/Ubuntu Dual Boot + Ubuntu, Debian, Kali in WSL2
-
