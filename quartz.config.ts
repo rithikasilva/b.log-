@@ -20,24 +20,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#faf8f8", // Background
+          lightgray: "#e5e5e5", // Borders
+          gray: "#b8b8b8", // Graph links, heavier borders
+          darkgray: "#f8f9fa", // Body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#284b63", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal background, highlighted text, highlighted lines of code
         },
         darkMode: {
-          light: "#131415",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#FFC4F4",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#131415", // Background
+          lightgray: "#393639", // Borders
+          gray: "#646464", // Graph linkes, heavier borders
+          darkgray: "#f8f9fa", // body text
+          dark: "#ebebec", // header text and icons
+          secondary: "#6c757d", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited garph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal background, highlighted text, highlighted lines of code
         },
       },
     },
