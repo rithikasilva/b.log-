@@ -23,7 +23,7 @@ const config: QuartzConfig = {
           light: "#faf8f8", // Background
           lightgray: "#e5e5e5", // Borders
           gray: "#b8b8b8", // Graph links, heavier borders
-          darkgray: "#f8f9fa", // Body text
+          darkgray: "#4e4e4e", // Body text
           dark: "#2b2b2b", // header text and icons
           secondary: "#284b63", // link colour, current graph node
           tertiary: "#84a59d", // hover states and visited graph nodes
