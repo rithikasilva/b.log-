@@ -2,7 +2,7 @@
 title: The Little Things
 date: 2024-01-22
 ---
-In doing anything for extended periods of time, your pick up a few tips and tricks. You can judge me all you want for what I may have learned too late, or that the way I do things isn't actually the best. I don't care. 
+In doing anything for extended periods of time, you pick up a few tips and tricks. You can judge me all you want for what I may have learned too late, or that the way I do things isn't actually the best. I don't care. 
 
 Listed below are tips, tricks, and settings. Everything is subjective (but you can still be wrong). Most of my settings and keybindings can be found in my [dotfiles repo](https://github.com/rithikasilva/.dotfiles).
 
