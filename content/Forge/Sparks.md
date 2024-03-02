@@ -14,3 +14,4 @@ $$
 ##### Someday
 - [ ] Why Subset Sum isn't polytime - pseudo-polytime.
 - [ ] A brief proof of my favourite undecidable problem + a nice video if the proof isn't clear.
+- [ ] Dealing with VIM swapfiles 💀
