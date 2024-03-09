@@ -10,6 +10,7 @@ $$
 
 ##### Soon
 - [ ] Slope field analysis of FRC teams using Zebra MotionWorks data from 2023 - what can we can learn from the cycle paths and routing of teams in relation to drivetrain, strategy, and design.
+- [ ] Self-healing URLs
 
 ##### Someday
 - [ ] Why Subset Sum isn't polytime - pseudo-polytime.
