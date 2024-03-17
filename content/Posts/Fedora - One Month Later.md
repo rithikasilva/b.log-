@@ -1,5 +1,5 @@
 ---
-title: Post One Month on Fedora
+title: Fedora - One Month Later
 date: 2024-03-17
 ---
 I've officially been using Fedora for a month on [[Tachyon]] and I have enough changes made that I think it's time for me to do a progress post.
