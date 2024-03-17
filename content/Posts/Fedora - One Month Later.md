@@ -6,6 +6,7 @@ I've officially been using Fedora for a month on [[Tachyon]] and I have enough c
 <p align="center">
   <img src="https://rithikasilva.ca/b.log-/Images-and-Assets/post-month-fedora-open.png" width="600px"/>
 </p>
+
 At a glance, I'm using:
 - [Alacritty](https://github.com/alacritty/alacritty) as my terminal emulator.
 	- Bash as my shell.
