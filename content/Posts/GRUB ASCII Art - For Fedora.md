@@ -1,5 +1,5 @@
 ---
-title: Grub ASCII Art - For Fedora
+title: GRUB ASCII Art - For Fedora
 date: 2024-03-17
 ---
 The other day I stumbled across [this post](https://www.reddit.com/r/unixporn/comments/13iukcn/grub_ascii_art_on_grub_bootloader/) about customising the GRUB bootloader to display ASCII art. Among the comments was [Nx2's tutorial](https://nx2.site/grub-ascii-theme) on how to do this. The steps listed unfortunately don't quite work for Fedora. Fedora uses GRUB2 instead of GRUB so `update-grub` doesn't work. 
