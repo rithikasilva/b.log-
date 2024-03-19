@@ -53,10 +53,9 @@ export const defaultContentPageLayout: PageLayout = {
     })),
   ],
   right: [
-    // Component.Graph(),
-    // Component.RecentNotes(
-    //   {limit: 5}
-    // ),
+    Component.RecentNotes(
+      {limit: 5}
+    ),
     Component.Explorer(),
   ],
 }
